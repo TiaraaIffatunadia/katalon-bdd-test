@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dashboard</name>
+   <tag></tag>
+   <elementGuidId>82ed5f12-1482-42fb-a4af-274c63947f4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/ul/li[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f5bf41a0-cd2f-4a0a-ad6c-999677307a79</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex flex-row bg-primary text-white hover:text-neutral items-center space-x-2 p-2 ps-3 pe-3 rounded-box hover:transition-all duration-300 font-medium</value>
+      <webElementGuid>09e80825-cc79-4772-9bef-bbcf04db5fed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/app/sipantau/sekolah/beranda</value>
+      <webElementGuid>b3589aeb-3a4f-4211-809c-e2886360974a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Dashboard</value>
+      <webElementGuid>6ae8cb84-f723-4f65-9843-a6ca34217e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;flex-1 transition-all duration-300 px-4&quot;]/div[@class=&quot;transition-width duration-300 w-full&quot;]/ul[@class=&quot;space-y-2 py-4 block&quot;]/li[@class=&quot;flex flex-row&quot;]/div[1]/a[@class=&quot;flex flex-row bg-primary text-white hover:text-neutral items-center space-x-2 p-2 ps-3 pe-3 rounded-box hover:transition-all duration-300 font-medium&quot;]</value>
+      <webElementGuid>edf5e2cb-6e2e-4318-a369-5a67ec4e00a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/ul/li[2]/div/a</value>
+      <webElementGuid>b0f5affa-9af7-4f3b-9306-1c8c63976710</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sistem Informasi Pelaporan Progres Pembangunan Sekolah'])[1]/following::a[1]</value>
+      <webElementGuid>ac887729-b961-4342-99bb-f23419843b36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logout'])[1]/following::a[1]</value>
+      <webElementGuid>a982b6be-98c9-4c5c-bb1c-39feea1b1dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Realisasi'])[1]/preceding::a[1]</value>
+      <webElementGuid>40f13960-8295-493e-9c9e-0d13999f2ca7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/app/sipantau/sekolah/beranda')]</value>
+      <webElementGuid>7210e57f-ce09-4b69-aa3c-f1912e0ee12d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a</value>
+      <webElementGuid>ff7725ec-d822-46ca-8451-8a4deabcfa0d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/app/sipantau/sekolah/beranda' and (text() = '  Dashboard' or . = '  Dashboard')]</value>
+      <webElementGuid>96968d62-837a-47d8-8743-a2399d375c93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

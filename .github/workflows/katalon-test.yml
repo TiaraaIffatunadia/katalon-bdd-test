@@ -1,0 +1,20 @@
+name: Katalon Studio CI
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: windows-latest # Atau ubuntu-latest jika test kamu headless
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v3
+
+      - name: Execute Katalon Studio Tests
+        uses: katalon-studio/katalon-studio-github-action@v2
+        with:
+          version: 'latest'
+          projectPath: ${{ github.workspace }}
+          args: '-noGui -browserType="Chrome" -retry=0 -testSuitePath="Test Suites/NamaTestSuiteKamu" -apiKey=${{ secrets.KATALON_API_KEY }}'

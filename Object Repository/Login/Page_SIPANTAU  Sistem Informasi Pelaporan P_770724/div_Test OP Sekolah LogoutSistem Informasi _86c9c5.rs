@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Test OP Sekolah LogoutSistem Informasi _86c9c5</name>
+   <tag></tag>
+   <elementGuidId>726c5bc1-a6d5-4344-add3-c5c55ec1fcc6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.flex-1.transition-all.duration-300.px-4</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>98822e9e-417e-4964-9e16-4d5b71d7beee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 transition-all duration-300 px-4</value>
+      <webElementGuid>ebb41f68-1b10-49c6-b1bf-4d895a44df80</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test OP Sekolah LogoutSistem Informasi Pelaporan Progres Pembangunan Sekolah  Dashboard  Realisasi  PengaturanInformasi Sekolah Edit Info SekolahDetail SekolahNPSN00000000Cabang Dinas Wilayah14Nama SekolahTest Sekolah DummyJumlah Rombel12Kabupaten/KotaCIANJURJumlah Siswa150Daftar PekerjaanNo.Jenis PekerjaanVol.TotalProgress FisikProgress RealisasiProgress Realisasi KeuanganTanggalAksi1RKB SMA2Rp 3.000.000100%100.00 %Rp 3.000.00012/02/2026 Detail Realisasi2Toilet SMA1Rp 5.000.0000%0.00 %Rp 012/02/2026 Detail Realisasi3Rehab SMA1Rp 150.000.00033%0.00 %Rp 004/11/2025 Detail RealisasiMenampilkan 1 sampai 3 dari 3 dataSebelumnya1SelanjutnyaEdit Info SekolahNPSNCabang Dinas WilayahNama SekolahKabupaten/KotaJumlah RombelJumlah SiswaBatalSimpan</value>
+      <webElementGuid>adf745d7-beb2-4227-b785-2ab78f5bc001</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;flex-1 transition-all duration-300 px-4&quot;]</value>
+      <webElementGuid>f7fc62e2-6ead-4e18-9db9-cd4390bda23c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div</value>
+      <webElementGuid>9af26368-971f-4295-a4c1-4308a1ba72ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div</value>
+      <webElementGuid>417ec27b-8594-4af9-bb11-02ae9a600994</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Test OP Sekolah LogoutSistem Informasi Pelaporan Progres Pembangunan Sekolah  Dashboard  Realisasi  PengaturanInformasi Sekolah Edit Info SekolahDetail SekolahNPSN00000000Cabang Dinas Wilayah14Nama SekolahTest Sekolah DummyJumlah Rombel12Kabupaten/KotaCIANJURJumlah Siswa150Daftar PekerjaanNo.Jenis PekerjaanVol.TotalProgress FisikProgress RealisasiProgress Realisasi KeuanganTanggalAksi1RKB SMA2Rp 3.000.000100%100.00 %Rp 3.000.00012/02/2026 Detail Realisasi2Toilet SMA1Rp 5.000.0000%0.00 %Rp 012/02/2026 Detail Realisasi3Rehab SMA1Rp 150.000.00033%0.00 %Rp 004/11/2025 Detail RealisasiMenampilkan 1 sampai 3 dari 3 dataSebelumnya1SelanjutnyaEdit Info SekolahNPSNCabang Dinas WilayahNama SekolahKabupaten/KotaJumlah RombelJumlah SiswaBatalSimpan' or . = 'Test OP Sekolah LogoutSistem Informasi Pelaporan Progres Pembangunan Sekolah  Dashboard  Realisasi  PengaturanInformasi Sekolah Edit Info SekolahDetail SekolahNPSN00000000Cabang Dinas Wilayah14Nama SekolahTest Sekolah DummyJumlah Rombel12Kabupaten/KotaCIANJURJumlah Siswa150Daftar PekerjaanNo.Jenis PekerjaanVol.TotalProgress FisikProgress RealisasiProgress Realisasi KeuanganTanggalAksi1RKB SMA2Rp 3.000.000100%100.00 %Rp 3.000.00012/02/2026 Detail Realisasi2Toilet SMA1Rp 5.000.0000%0.00 %Rp 012/02/2026 Detail Realisasi3Rehab SMA1Rp 150.000.00033%0.00 %Rp 004/11/2025 Detail RealisasiMenampilkan 1 sampai 3 dari 3 dataSebelumnya1SelanjutnyaEdit Info SekolahNPSNCabang Dinas WilayahNama SekolahKabupaten/KotaJumlah RombelJumlah SiswaBatalSimpan')]</value>
+      <webElementGuid>b1049c92-ab3a-4afe-93c0-40aa9da03808</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

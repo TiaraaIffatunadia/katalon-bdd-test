@@ -6,11 +6,12 @@
    <UUID>d10ab0c5-4f8d-427c-bdf9-ca133ffafe2d</UUID>
    <createdEdition>ENTERPRISE</createdEdition>
    <createdVersion>10.4.3</createdVersion>
-   <freeLicense>false</freeLicense>
+   <freeLicense>true</freeLicense>
    <migratedVersion>5.9.0</migratedVersion>
    <modifiedEdition>ENTERPRISE</modifiedEdition>
    <modifiedVersion>10.4.3</modifiedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>C:\Users\Administrator\Katalon Studio\SiPantau\SiPantau.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
